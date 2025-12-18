@@ -1,1 +1,1 @@
-!(ABOUT ME)https://githubcard.com/hoytzhang.svg
+![ABOUT ME](https://githubcard.com/hoytzhang.svg)
